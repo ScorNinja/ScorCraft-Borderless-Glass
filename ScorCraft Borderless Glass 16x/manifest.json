@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ScorCraft Borderless Glass x16",
+    "description": "RTX-enabled add on that removes the borders from glass blocks and panes yet keeps the textures.",
+    "uuid": "b0577e26-4b2f-49fb-81a9-f012e1c89a63",
+    "version": [
+      1,0,0
+    ],
+    "min_engine_version": [
+      1,13,0
+    ]
+  },
+  "modules": [
+    {
+      "description": "ScorCraft Borderless Glass x16 v1.0.0",
+      "type": "resources",
+      "uuid": "59192f6a-9cdb-4311-bd02-144f6f90790a",
+      "version": [
+        0,0,5
+      ]
+    }
+  ],
+  "capabilities": [
+    "raytraced"
+  ]
+}
